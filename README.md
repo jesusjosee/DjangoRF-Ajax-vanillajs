@@ -1,0 +1,1 @@
+# DjangoRF-Ajax-vanillajs
